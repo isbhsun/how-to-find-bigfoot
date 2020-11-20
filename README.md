@@ -169,3 +169,11 @@ The reports could be long winded and rambling, so we chose to use NMF in order t
 - If you're feeling brave, bring your tent and recording equipment - but don't fall asleep! A lot of sightings occur under the cover of darkness.
 - No going to Hawaii! Bigfeet can't stand pineapple and shaved ice.
 - Keep your eyes on the ground: Vague indentations in soft earth are clear indications of a sasquatch
+
+
+## Further Analysis
+Our analysis shows that different topic groups include the time of day, so we believe that it would be beneficial to continue to examine the best time to search for bigfoot. 
+
+We would also like to use alternative ML algorithms to compare our results. 
+
+We would also like to use satellite imagery and machine learning/image processing to search for bigfoot tracks and bigfoot. 
