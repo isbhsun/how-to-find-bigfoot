@@ -168,3 +168,4 @@ The reports could be long winded and rambling, so we chose to use NMF in order t
 - Keep your eyes peeled when your expedition loses focus, A lot of sightings happen when everyone else is looking the other way...
 - If you're feeling brave, bring your tent and recording equipment - but don't fall asleep! A lot of sightings occur under the cover of darkness.
 - No going to Hawaii! Bigfeet can't stand pineapple and shaved ice.
+- Keep your eyes on the ground: Vague indentations in soft earth are clear indications of a sasquatch
